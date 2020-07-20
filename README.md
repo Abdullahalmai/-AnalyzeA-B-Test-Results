@@ -1,1 +1,3 @@
 # -AnalyzeA-B-Test-Results
+This project focuses on testing statistically two pages to see if the new page would be a better version than the old page. 
+In conclusion, this project has been analyzing whether they should continue on the old page or approve of the new page. Statistically, after running numbers we can determine that the new page did not turn out as expected, and we cannot reject the null hypothesis. Also, when comparing the US and the UK p-values, the UK is higher with 0.455.However; they both have higher p-values than the significant difference of 0.05, which makes it invalid even if it were one of them.
